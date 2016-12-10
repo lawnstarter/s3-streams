@@ -8,7 +8,7 @@
 	"homepage": "https://github.com/izaakschroeder/s3-streams",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/izaakschroeder/s3-streams.git"
+		"url": "https://github.com/lawnstarter/s3-streams.git"
 	},
 	"main": "lib/s3.js",
 	"scripts": {
