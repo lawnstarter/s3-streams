@@ -1,3 +1,5 @@
+# UPDATED TO ALLOW USE OF NODE ^4 ^5 ^6 REQUIRED FOR YARN COMPATIBILITY
+
 # s3-streams
 
 Support for streaming reads and writes from and to S3 using Amazon's native API.
